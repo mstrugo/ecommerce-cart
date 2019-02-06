@@ -1,0 +1,15 @@
+.box {
+  margin: 10px 0;
+}
+
+.quantity {
+  margin: 0 10px;
+}
+
+.text {
+  text-align: center;
+}
+
+input::-webkit-inner-spin-button {
+  display: none;
+}

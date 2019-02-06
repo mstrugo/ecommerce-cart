@@ -1,0 +1,7 @@
+.box {
+  max-width: 300px;
+}
+
+.disabled {
+  background: blue;
+}
